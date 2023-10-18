@@ -366,7 +366,7 @@ Vérifiez votre carte SIM."</string>
     <string name="message_download_failed_title">Message non téléchargé</string>
     <string name="message_expired">Expiré</string>
     <string name="message_failed">Échec</string>
-    <string name="message_failed_and_cotanct_operator">Une erreur s'est produite. <font color="#1c86ee">Contactez votre opérateur</font>.</string>
+    <string name="message_failed_and_cotanct_operator">"Une erreur s'est produite. <font color="#1c86ee">Contactez votre opérateur</font>."</string>
     <string name="message_failed_body">Appuyez pour revoir le message puis réessayez.</string>
     <string name="message_number">Numéro de téléphone :</string>
     <string name="message_pending">En attente</string>
@@ -550,7 +550,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
     <string name="not_set">Non défini</string>
     <string name="not_support_audio_forward">Impossible de transférer des messages vocaux</string>
     <string name="not_support_file">"Impossible d'envoyer des fichiers de ce type"</string>
-    <string name="notes_not_found">Installez d'abord Notes</string>
+    <string name="notes_not_found">"Installez d'abord Notes"</string>
     <string name="notification_add_todo">Me le rappeler</string>
     <string name="notification_add_todo_content">Code de retrait : %s</string>
     <string name="notification_channel_msg_description">Notifications à propos des messages</string>
@@ -588,8 +588,8 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
     <string name="phrase_list_title">Réponses rapides</string>
     <string name="pick_original_photo_hint">Image originale (%1$s)</string>
     <string name="pick_original_video_hint">Vidéo originale (%1$s)</string>
-    <string name="pick_picture_size">Sélectionnez la taille de l'image</string>
-    <string name="pick_picture_size_desc">RCS permet de compresser les images avant l'envoi. Compresser des images ou envoyer des fichiers originaux ?</string>
+    <string name="pick_picture_size">"Sélectionnez la taille de l'image"</string>
+    <string name="pick_picture_size_desc">"RCS permet de compresser les images avant l'envoi. Compresser des images ou envoyer des fichiers originaux ?"</string>
     <string name="pick_too_many_recipients">Trop de destinataires</string>
     <string name="pick_video_size">Sélectionnez la taille de la vidéo</string>
     <string name="pick_video_size_desc">RCS permet de compresser les vidéos avant de les envoyer. Compresser des vidéos ou envoyer des fichiers originaux ?</string>
@@ -611,7 +611,7 @@ Un message SMS sortant est requis pour activer le Mi Message. Votre opérateur v
     <string name="pref_notification_settings_title">Paramètres de notification</string>
     <string name="pref_other_title">Paramètres supplémentaires</string>
     <string name="pref_rcs_show_report_message">Recevoir des rapports de livraison</string>
-    <string name="pref_rcs_show_report_message_tip">Recevoir des rapports lorsque vos messages sont remis à l'autre personne</string>
+    <string name="pref_rcs_show_report_message_tip">"Recevoir des rapports lorsque vos messages sont remis à l'autre personne"</string>
     <string name="pref_show_blocked_messages_summary">Afficher les messages bloqués dans la liste des conversations</string>
     <string name="pref_show_list_avatar_summary">Afficher les photos de profil et les infos de contact en affichage liste</string>
     <string name="pref_show_photo_word_summary">"Attribuer automatiquement une photo aux contacts n'en ayant pas"</string>
@@ -752,14 +752,14 @@ Activez les données mobiles et ouvrez à nouveau cette page."</string>
     <string name="rcs_chatbot_mms_remind_title">Convertir en MMS</string>
     <string name="rcs_chatbot_my_tab_empty">"Rien ici pour l'instant.
 Découvrez les chatbots recommandés !"</string>
-    <string name="rcs_chatbot_near_tab_empty">Rien ici pour l'instant</string>
+    <string name="rcs_chatbot_near_tab_empty">"Rien ici pour l'instant"</string>
     <string name="rcs_chatbot_net_error">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="rcs_chatbot_no_waring">Silence des notifications de messages</string>
     <string name="rcs_chatbot_normal_message">Vous avez reçu un message. Appuyez pour afficher les détails.</string>
     <string name="rcs_chatbot_notification">[Chatbot] %s</string>
     <string name="rcs_chatbot_progress_failed">"Impossible de charger les informations. Appuyez pour réessayer."</string>
     <string name="rcs_chatbot_progress_loading">Un instant…</string>
-    <string name="rcs_chatbot_recommend_tab_empty">Rien ici pour l'instant</string>
+    <string name="rcs_chatbot_recommend_tab_empty">"Rien ici pour l'instant"</string>
     <string name="rcs_chatbot_send_message">Partager les données de votre appareil avec %s ?</string>
     <string name="rcs_chatbot_server_error">"Impossible d'obtenir les données. Ouvrez à nouveau cette page."</string>
     <string name="rcs_chatbot_service">Support client</string>
@@ -771,11 +771,11 @@ Découvrez les chatbots recommandés !"</string>
     <string name="rcs_chatdetail_check_chatbot">Mes applications</string>
     <string name="rcs_chatdetail_menu_add_black">Bloquer</string>
     <string name="rcs_chatdetail_menu_black_tip">Ajouter ce chatbot à la liste de blocage ?</string>
-    <string name="rcs_chatdetail_menu_delete">Supprimer de l'appareil</string>
+    <string name="rcs_chatdetail_menu_delete">"Supprimer de l'appareil"</string>
     <string name="rcs_chatdetail_menu_delete_content">Supprimer ce chatbot ?</string>
     <string name="rcs_chatdetail_menu_delete_error">"Impossible de supprimer. Réessayez."</string>
     <string name="rcs_chatdetail_menu_delete_success">Supprimé avec succès</string>
-    <string name="rcs_chatdetail_menu_more_chabot">Plus d'infos</string>
+    <string name="rcs_chatdetail_menu_more_chabot">"Plus d'infos"</string>
     <string name="rcs_chatdetail_menu_post">Rapport</string>
     <string name="rcs_chatdetail_menu_remove_black">Débloquer</string>
     <string name="rcs_chatdetail_menu_save_black_fail">"Impossible de bloquer. Réessayez."</string>
@@ -909,7 +909,7 @@ Découvrez les chatbots recommandés !"</string>
     <string name="rms_view_file_size_notsupport">"Impossible d'envoyer ce fichier. Le fichier est trop volumineux."</string>
     <string name="rms_view_file_too_large">Ce fichier est trop volumineux. Une version compressée sera envoyée.</string>
     <string name="rms_view_image_notsupport">"Impossible d'envoyer ce fichier sous forme d'image"</string>
-    <string name="rms_view_image_title">Afficher l'image</string>
+    <string name="rms_view_image_title">"Afficher l'image"</string>
     <string name="rms_view_vedio_notsupport">"Impossible d'envoyer ce fichier sous forme de vidéo"</string>
     <string name="rsc_chatbot_back">Retour</string>
     <string name="rsc_chatbot_detail">Informations sur le fournisseur</string>
@@ -1027,7 +1027,7 @@ Découvrez les chatbots recommandés !"</string>
     <string name="solar_term_white_dews">Rosée blanche</string>
     <string name="solar_term_winter_begins">"Début de l'hiver"</string>
     <string name="solar_term_winter_solstice">"Solstice d'hiver"</string>
-    <string name="soundrecorder_not_found">Installez d'abord l'enregistreur</string>
+    <string name="soundrecorder_not_found">"Installez d'abord l'enregistreur"</string>
     <string name="sp_category_all">Tous les messages de service</string>
     <string name="sp_category_bank">Banque de messages de notification</string>
     <string name="sp_conversation_title">Notifications</string>
@@ -1048,7 +1048,7 @@ Découvrez les chatbots recommandés !"</string>
     <string name="storage_dialog_mms">MMS : %d</string>
     <string name="storage_dialog_mms_size">Taille du MMS :</string>
     <string name="storage_dialog_sms">SMS : %d</string>
-    <string name="storage_unavailable">Pas d'espace disponible</string>
+    <string name="storage_unavailable">"Pas d'espace disponible"</string>
     <string name="sub_sim_card">Sub</string>
     <string name="sub_sim_card_indicator">Sub %d</string>
     <string name="sub_sim_not_support_mms">"Impossible d'envoyer des MMS avec une carte SIM secondaire"</string>
@@ -1094,7 +1094,7 @@ Si vous n'acceptez pas d'accorder de telles autorisations ou de partager et tél
     <string name="system_permission_perm_storage">Pour afficher, envoyer et stocker des fichiers</string>
     <string name="system_permission_perm_takephoto">Pour prendre des photos et des vidéos</string>
     <string name="system_permission_perm_write_contact">Pour créer et modifier des contacts</string>
-    <string name="system_permission_prem_rcs_read_contact">Pour afficher l'état de livraison des messages aux contacts dans les messages de groupe 5G</string>
+    <string name="system_permission_prem_rcs_read_contact">"Pour afficher l'état de livraison des messages aux contacts dans les messages de groupe 5G"</string>
     <string name="system_permission_requested">Demander</string>
     <string name="system_permission_user_privacy">Avant de continuer, lisez et acceptez les conditions générales suivants.</string>
     <string name="tab_finance">Finance</string>

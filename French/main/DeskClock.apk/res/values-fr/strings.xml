@@ -289,7 +289,7 @@
     <string name="notification_adv_time_entries4">"<xliff id="HOUR" refersto="1">%d</xliff> heure d'advance"</string>
     <string name="notification_adv_time_entries5">Aucun</string>
     <string name="notification_permission_desc">"Si vous n'accordez pas d'autorisations de notification, vous ne pourrez pas désactiver les alarmes lorsqu'elles sonnent. Accorder l'autorisation maintenant ?"</string>
-    <string name="notification_permission_dialog_content">Autoriser cette application à envoyer des notifications afin de recevoir des notifications d'alarme. Vous pouvez accorder cette autorisation dans Paramètres.</string>
+    <string name="notification_permission_dialog_content">"Autoriser cette application à envoyer des notifications afin de recevoir des notifications d'alarme. Vous pouvez accorder cette autorisation dans Paramètres."</string>
     <string name="notification_permission_dialog_not_open">Pas maintenant</string>
     <string name="notification_permission_dialog_open">Paramètres</string>
     <string name="notification_permission_dialog_title">Autorisations requises</string>
