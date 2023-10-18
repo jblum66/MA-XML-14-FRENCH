@@ -316,6 +316,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backup_automatically_title">Synchroniser automatiquement</string>
     <string name="backup_battery_low_desc">Vous pouvez toujours continuer à sauvegarder des éléments</string>
     <string name="backup_battery_low_title">Sauvegarde suspendue en raison de batterie faible</string>
+    <string name="backup_category_title">SAUVEGARDE</string>
     <string name="backup_close">Fermer la sauvegarde</string>
     <string name="backup_cloud_space_low_btn_text">En obtenir plus</string>
     <string name="backup_cloud_space_low_desc">%1$s dans Xiaomi Cloud | Disponible %2$s</string>
@@ -331,7 +332,10 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backup_dirty_num">Total : %s</string>
     <string name="backup_dirty_tip">Photos et vidéos non sauvegardées</string>
     <string name="backup_disable_message">"Galerie doit vider le cache de l'application, car vous avez désactivé la synchronisation avec le cloud."</string>
+    <string name="backup_display">Rappels de stockage</string>
     <string name="backup_file_over_size_desc">Photos plus grosses que %1$s et les vidéos plus grosses que %2$s ne peuvent pas être sauvegardées.</string>
+    <string name="backup_google_description">Protégez vos photos en les sauvegardant sur votre compte Google</string>
+    <string name="backup_google_name">Google Photos</string>
     <string name="backup_immediately">Sauvegarder</string>
     <string name="backup_need_sync_desc">Appuyer pour continuer la sauvegarde</string>
     <string name="backup_need_sync_title">Sauvegarde stoppé</string>
@@ -341,6 +345,10 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backup_no_wifi_btn_text">Utiliser les données</string>
     <string name="backup_no_wifi_desc">"Vous pouvez également sauvegarder des éléments à l'aide de données mobiles"</string>
     <string name="backup_no_wifi_title">La synchronisation reprendra une fois que vous serez connecté au Wi-Fi</string>
+    <string name="backup_off_des">Activez la synchronisation avec le cloud pour sauvegarder automatiquement les photos et les vidéos</string>
+    <string name="backup_onedrive_description">Protégez vos photos dans le cloud et accédez-y sur n’importe quel appareil</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Utiliser le Wi-Fi pour synchroniser des photos / vidéos</string>
     <string name="backup_only_in_wifi_summary">Ne jamais utiliser les données mobiles pour synchroniser des photos ou des vidéos</string>
     <string name="backup_only_wifi_dialog_message">Utiliser les données mobiles pour synchroniser des photos et des vidéos ?</string>
@@ -1129,7 +1137,9 @@ sont disponibles"</string>
     <string name="get_user_info_failed_hint">Impossible de trouver cette personne</string>
     <string name="get_user_info_top_hint_text">Inviter via le Compte Xiaomi</string>
     <string name="gif_tip">GIF</string>
-    <string name="gigabyteShort">" Go"</string>
+    <string name="gigabyteShort">" Gio"</string>
+    <string name="global_cloud_action_upgrade_onedrive">Mettre à niveau OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Mettez à niveau votre plan de stockage cloud pour pouvoir sauvegarder toutes vos photos et vidéos sur le cloud.</string>
     <string name="global_pad">Ma tablette</string>
     <string name="global_pc">Mon laptop</string>
     <string name="global_phone">Mon téléphone</string>
@@ -1280,7 +1290,7 @@ sont disponibles"</string>
     <string name="kick_sharer">Retirer les accès partagés</string>
     <string name="kick_sharer_failed">Impossible de supprimer cette personne</string>
     <string name="kick_sharer_successfully">Cette personne a été supprimée</string>
-    <string name="kilobyteShort">" Ko"</string>
+    <string name="kilobyteShort">" Kio"</string>
     <string name="labour_day">Fête du travail</string>
     <string name="last_some_day_pets_title">Pattes et moustaches</string>
     <string name="last_some_day_show_title">Heure du spectacle</string>
@@ -1434,6 +1444,7 @@ sont disponibles"</string>
     <string name="main_save_compress">Compresser et sauvegarder</string>
     <string name="main_save_error_msg">"L'enregistrement n'a pas pu être effectué en raison d'une erreur"</string>
     <string name="main_save_origin">"Enregistrer le fichier d'origine"</string>
+    <string name="manager_backup">Gérer</string>
     <string name="manual_hide_manage">Ajouter des fichiers \".aucun média\"</string>
     <string name="manual_hide_state">Fichiers \".aucun média\" ajoutés avec succès</string>
     <string name="map_album">Carte</string>
@@ -1752,6 +1763,7 @@ pour personnaliser Galerie"</string>
     <string name="online_video_vip_transcoding">"Sur le point de démarrer la diffusion VIP…
 Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonction pour la première fois."</string>
     <string name="open">Activer</string>
+    <string name="open_backup">Activer</string>
     <string name="open_public_message">"Générer une url et l'envoyer à vos amis"</string>
     <string name="open_public_title">Partager</string>
     <string name="open_settings">Paramètres</string>
@@ -2458,6 +2470,7 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="see_ignore_faces">Voyez les personnes que vous avez ignorées</string>
     <string name="see_more_settings">Paramètres additionnels</string>
     <string name="select_all">Tout sélectionner</string>
+    <string name="select_backup">Sélectionner la sauvegarde</string>
     <string name="select_image_operation">Ajout des photos</string>
     <string name="select_item_face">"Est-ce '%s' ?"</string>
     <string name="select_origin_tip">Fichier original (%s)</string>
@@ -2475,7 +2488,6 @@ Le transcodage peut prendre un certain temps lorsque vous utilisez cette fonctio
     <string name="send_public_url">"Envoi de l'URL"</string>
     <string name="send_secret_file_failed">Impossible de partager</string>
     <string name="send_secret_file_space_low">Espace de stockage insuffisant</string>
-    <string name="send_too_many_files_error">"Vous pouvez envoyer jusqu'à %d éléments en même temps"</string>
     <string name="service_error">Erreur serveur</string>
     <string name="service_is_provided_by_miui_cloud_service">Ce service est fourni par Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">"Définir comme fond d'écran de verrouillage"</string>
@@ -2851,7 +2863,7 @@ Jusqu'au %1$s, vous pouvez déplacer vos éléments vers Google Photos ou visite
     <string name="talkback_video_with_time">Vidéo, %s</string>
     <string name="talkback_video_with_time_and_location">Vidéo, %1$s, %2$s</string>
     <string name="temporary_not_available">"Cette fonctionnalité n'est pas encore disponible"</string>
-    <string name="terabyteShort">" To"</string>
+    <string name="terabyteShort">" Tio"</string>
     <string name="text_append_color">Couleur</string>
     <string name="text_append_font">Police</string>
     <string name="text_append_hint">Saisir du texte</string>
@@ -3560,7 +3572,7 @@ Jusqu'au %1$s, vous pouvez déplacer vos éléments vers Google Photos ou visite
     <string name="wednesday_shortest">Mer</string>
     <string name="weibo_login_btn_content_description">Sign in with Weibo</string>
     <string name="weixin_login_btn_content_description">Sign in with WeChat</string>
-    <string name="welcome_to_micloud">Bienvenue sur Xiaomi Cloud</string>
+    <string name="welcome_to_micloud">Bienvenue dans Xiaomi Cloud</string>
     <string name="where_is_barcode">Où est le QR code ?</string>
     <string name="who_is_this">Qui est-ce ?</string>
     <string name="widget_custom_store_detail_desc">Ajoutez le widget, puis appuyez dessus pour sélectionner des photos</string>

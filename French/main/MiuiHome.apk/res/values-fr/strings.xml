@@ -68,9 +68,7 @@
     <string name="all_apps_search_app">Rechercher des applications</string>
     <string name="all_apps_search_market_message">Recherche en ligne</string>
     <string name="all_apps_setting_classic_title">Classique</string>
-    <string name="all_apps_setting_desktop_desc">"Afficher toutes les applications installées sur l'écran d'accueil. Appuyez longuement sur l'icône d'une application pour voir les raccourcis disponibles, gérer ou désinstaller l'application."</string>
-    <string name="all_apps_setting_desktop_title">MIUI</string>
-    <string name="all_apps_setting_drawer_title">"Tiroir d'applications"</string>
+    <string name="all_apps_setting_drawer_title">"Avec tiroir d'applications"</string>
     <string name="all_apps_setting_jeejen_title">Mode simplifié</string>
     <string name="all_apps_setting_original_scrollbar">Mise en page originale</string>
     <string name="all_apps_setting_scroll_bar">Barre de défilement</string>
@@ -267,6 +265,7 @@
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
     <string name="failed_to_delete_temporary">Impossible de supprimer</string>
     <string name="failed_to_drop_widget_invalid">"Ce widget n'est pas valide"</string>
+    <string name="find_app_by_color">Grouper les icônes par couleur pour trouver des applications plus rapidement</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -727,7 +726,7 @@ Sécurité renforcée."</string>
     <string name="switch_personal_assistant_app_vault">"Coffre d'applications"</string>
     <string name="switch_personal_assistant_google">Actualités Google</string>
     <string name="switch_personal_assistant_none">Aucun</string>
-    <string name="switch_personal_assistant_summary">Balayez vers la droite sur l'écran d'accueil pour ouvrir Google Discover</string>
+    <string name="switch_personal_assistant_summary">Balayez vers la droite sur l’écran d’accueil pour ouvrir Google Discover</string>
     <string name="switch_screen_button_order">Inverser les boutons</string>
     <string name="switch_screen_button_order_desc">Inverser les boutons Retour et Menu</string>
     <string name="system_shortcuts_edit">Modifier</string>

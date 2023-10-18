@@ -52,10 +52,10 @@
     <string name="action_item_share">Partager</string>
     <string name="action_settings">Paramètres</string>
     <string name="actionbar_button_up_description">Retour</string>
-    <string name="activity_not_found_notice">"Impossible de trouver l'application"</string>
     <string name="ad_close">Fermer</string>
     <string name="ad_data_exception">Erreur de données publicitaires</string>
-    <string name="ad_recommend">Afficher les annonces</string>
+    <string name="ad_flag_text">PUB</string>
+    <string name="ad_recommend">Afficher les publicités</string>
     <string name="ad_setting">Paramètres supplémentaires</string>
     <string name="add">Ajouter</string>
     <string name="add_music">Ajouter des chansons</string>
@@ -156,6 +156,7 @@
     <string name="cancel">Annuler</string>
     <string name="cancel_running_download">Annuler</string>
     <string name="cannot_download_to_sdcard_hint">"Impossible de télécharger des éléments sur la carte SD en raison de restrictions de droits d'auteur. Les éléments seront téléchargés sur le stockage interne à la place."</string>
+    <string name="card_content_descriptor">card</string>
     <string name="change_download_quality">Changer la qualité de téléchargement</string>
     <string name="character_counter_content_description">%1$d caractères saisis sur %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caractères dépassée %1$d sur %2$d</string>
@@ -401,9 +402,7 @@
     <string name="equalizer">Égaliseur</string>
     <string name="eras_ad">Apr. J.-C.</string>
     <string name="eras_bc">Av. J.-C.</string>
-    <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée à un autre Compte Xiaomi.</string>
     <string name="error_icon_content_description">Erreur</string>
-    <string name="error_invalid_bind_address">"L'adresse e-mail que vous avez saisie n'est pas valide."</string>
     <string name="error_not_support">Non pris en charge</string>
     <string name="evening">Après-midi</string>
     <string name="exo_controls_cc_disabled_description">Activer les sous-titres</string>
@@ -522,6 +521,7 @@
     <string name="get_more_favorite_content_after_login">Connectez-vous pour découvrir plus de chansons et de vidéos.</string>
     <string name="get_one_day_vip">Vous obtenez %d jours en VIP !</string>
     <string name="get_one_hour_vip">Vous obtenez %d heures en VIP !</string>
+    <string name="get_one_minute_vip">Vous obtenez %d minutes en VIP !</string>
     <string name="get_vip">Devenez VIP</string>
     <string name="go_agree">OK</string>
     <string name="google_account_login">Connectez-vous avec Google</string>
@@ -651,6 +651,10 @@
     <string name="joox_search_subtitle_prefix_song">piste</string>
     <string name="joox_vip_check_to_pay">Acheter</string>
     <string name="joox_vip_expired_hint">"Votre abonnement VIP a expiré. Les morceaux téléchargés depuis JOOX ne s'afficheront que dans vos téléchargements."</string>
+    <string name="jump_to_ytb_dialog_cancel">Annuler</string>
+    <string name="jump_to_ytb_dialog_desc">"Vous êtes sur le point de quitter Mi Music et d'ouvrir YouTube. Ouvrir YouTube maintenant ?"</string>
+    <string name="jump_to_ytb_dialog_ok">Confirmer</string>
+    <string name="jump_to_ytb_dialog_title">Quitter Mi Musique</string>
     <string name="just_hit_next">Appuyez simplement sur suivant</string>
     <string name="keep_queued_download">Conserver</string>
     <string name="ktv_playlist">Playlist KTV</string>
@@ -934,6 +938,7 @@
     <string name="ok">OK</string>
     <string name="one_day_vip">VIP de %d jours</string>
     <string name="one_hour_vip">VIP de %d heures</string>
+    <string name="one_minute_vip">VIP de %d minutes</string>
     <string name="online_apk_acquired">Chargé %d%%</string>
     <string name="online_apk_acquiring">Chargement… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Impossible de télécharger en raison de l'espace de stockage insuffisant."</string>
@@ -1245,6 +1250,7 @@ Soyez heureux"</string>
     <string name="retry_after_network_available">Impossible de se connecter au réseau. Vérifiez votre connexion et réessayez.</string>
     <string name="retry_download">Veuillez réessayer</string>
     <string name="revoke_upload_playlist_to_hungama_toast">"Les chansons en ligne ne seront pas synchronisées avec Hungama"</string>
+    <string name="reward_received">Vous vaez obtenu un abonnement VIP !</string>
     <string name="ringtone_editing">Éditeur de sonnerie</string>
     <string name="ringtone_not_support">"Le format de cet chanson n'est pas pris en charge"</string>
     <string name="ringtone_selected">Sélectionné</string>
@@ -1338,6 +1344,7 @@ Soyez heureux"</string>
     <string name="similar_songs">Chansons similaires</string>
     <string name="similar_videos">Vidéos similaires</string>
     <string name="skip">Passer</string>
+    <string name="skip_ad">Passer</string>
     <string name="sleep_mode">Mise en veille programmable</string>
     <string name="sleep_mode_canceled">Mode veille désactivée</string>
     <string name="sleep_mode_summary">Arrêter la lecture après une durée déterminée</string>

@@ -179,7 +179,6 @@
     <string name="gallery_service_termination_btn_continue">Continuer</string>
     <string name="gallery_service_termination_more_info">Pour plus de détails, voir \"%s\"</string>
     <string name="help_and_feedback">Aide et commentaires</string>
-    <string name="hybrid_provider">Fourni par %1$s</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Saisir le mot de passe</string>
     <string name="keybag_create_by_new_passcode_prompt">Ce mot de passe protège vos mots de passe stockés dans le cloud. Vous ne pourrez pas y accéder si vous oubliez ce mot de passe.</string>
@@ -533,7 +532,6 @@
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="night">Soirée</string>
-    <string name="no_network">Connexion au réseau impossible</string>
     <string name="no_sim">Impossible de trouver la carte SIM</string>
     <string name="noon">Midi</string>
     <string name="not_set">Non défini</string>
@@ -896,9 +894,11 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="waiting_for_sync">Patienter…</string>
-    <string name="web_sso_login_fail">Vous devez vous authentifier à nouveau</string>
-    <string name="web_sso_login_message">Connexion…</string>
-    <string name="webview_reload">Réessayez</string>
+    <string name="web_view_auto_login_fail">Connexion impossible. Réessayez.</string>
+    <string name="web_view_login_text">Connexion…</string>
+    <string name="web_view_reload_btn_text">Réessayez</string>
+    <string name="web_view_reload_description_text">"Impossible de se connecter au réseau.
+Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

@@ -114,6 +114,7 @@
     <string name="auto_clean_time_every_day">Tous les jours</string>
     <string name="auto_cleaner_open">Activer</string>
     <string name="back">Retour</string>
+    <string name="be_figuring">Calcul…</string>
     <string name="browser_scan_history_desc">Historique du navigateur</string>
     <string name="browser_search_history_desc">Éléments recherchés</string>
     <string name="btn_text_done">Terminé</string>
@@ -241,6 +242,7 @@
     <string name="dc_item_title_wechat_chat">"Nettoyer l'historique de WeChat"</string>
     <string name="dc_storage_cleaned">Libéré %s</string>
     <string name="dc_storage_info">Dispo: %1$s | Total: %2$s</string>
+    <string name="dc_storage_info_new">%1$s disponible</string>
     <string name="deep_clean_completed_tips">Nettoyé avec succès</string>
     <string name="deep_clean_data_path_clean_title">Nettoyer le cache</string>
     <string name="deep_clean_uninstall_completed_tips">Désinstallé avec succès</string>

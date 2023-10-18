@@ -2239,13 +2239,10 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="sign_in_to" formatted="false">Se connecter à %s1 \"%s2\"</string>
     <string name="sign_message">"http://%s a besoin de votre nom d'utilisateur et de votre mot de passe."</string>
     <string name="sign_out">Se déconnecter</string>
-    <string name="signin_tips_1">"- La connexion vous permet d'enregistrer votre progression."</string>
-    <string name="signin_tips_2">- Vos données seront sécurisées par votre compte.</string>
-    <string name="signin_tips_3">- Vous pourrez utiliser vos pièces sur tous vos appareils.</string>
-    <string name="signin_with_facebook">Se connecter avec Facebook</string>
-    <string name="signin_with_google">Se connecter avec Google</string>
-    <string name="simple_page_toast">"Vous pouvez passer à la valeur par défaut dans Paramètres > Paramètres de la page d'accueil"</string>
-    <string name="skip">Suivant</string>
+    <string name="simple_page_toast">Vous pouvez passer aux valeurs par défaut dans Paramètres > Paramètres de la page de démarrage</string>
+    <string name="site_content_has_update">Contenu de la page mis à jour</string>
+    <string name="skip">Sauter</string>
+    <string name="skip_ad">Ignorer</string>
     <string name="skip_current_version">Ignorer cette version</string>
     <string name="sku_price_everymonth">%1$s chaque mois</string>
     <string name="slide_card">Balayer pour en savoir plus</string>
@@ -2427,6 +2424,9 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="ticket_invalid">Le code que vous avez entré est incorrect</string>
     <string name="ticket_sign_in">Se connecter via SMS</string>
     <string name="time_picker_dialog_title">"Régler l'heure"</string>
+    <string name="time_segmented_evening_title">Chillout du soir</string>
+    <string name="time_segmented_morning_title">Bonjour</string>
+    <string name="time_segmented_noon_title">Choix de l’après-midi</string>
     <string name="tip_drag">Appuyez longuement pour éditer et faites glisser pour trier.</string>
     <string name="tip_not_support_external_sdcard_modify">Impossible de modifier les fichiers stockés sur la carte SD</string>
     <string name="tip_sync_disabled_by_incognito">"Impossible de synchroniser les éléments en mode Navigation privée"</string>
@@ -2478,7 +2478,6 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="update_email_address_dialog_message">"Vous devez vérifier votre identité avant de mettre à jour l'e-mail de récupération."</string>
     <string name="update_email_address_dialog_title">"Mettre à jour l'e-mail de récupération"</string>
     <string name="update_no_network_toast">Impossible de se connecter au réseau</string>
-    <string name="update_now">ACTUALISER MAINTENANT</string>
     <string name="update_phone_notice">Modifier les paramètres de sécurité</string>
     <string name="upgrade">Mise à jour</string>
     <string name="upload_error_log">Envoyer le journal</string>

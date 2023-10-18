@@ -25,7 +25,7 @@
         <item>Actualités périmées</item>
         <item>Points de vue extrémistes</item>
         <item>Publicité subliminale</item>
-        <item>"Je n'aime pas ça"</item>
+        <item>"Je n'aime pas"</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Aller en avant/en arrière</item>

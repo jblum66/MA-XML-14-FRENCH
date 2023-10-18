@@ -43,9 +43,11 @@
     <string name="address">Adresse</string>
     <string name="afternoon">Après-midi</string>
     <string name="agenda_month_empty_hint">"Aucun événement programmé pour aujourd'hui. Appuyez pour en créer un."</string>
+    <string name="agenda_not_today_empty_hint">Aucun événement ici pour l’instant. Appuyez pour en créer un.</string>
     <string name="agenda_tomorrow">DEMAIN, %1$s</string>
     <string name="agenda_view">Événements</string>
     <string name="alarm_label">Compris</string>
+    <string name="alarm_open_reminder">Activer le rappel</string>
     <string name="alarm_reminder_already">"Régler l'alarme avec succès"</string>
     <string name="alert_reminder_expired">Expiré</string>
     <string name="alert_title">Notifications du calendrier</string>
@@ -256,6 +258,7 @@
     <string name="event_info_when">Quand</string>
     <string name="event_info_where">Où</string>
     <string name="event_reminder_allday_day_zero">Ce jour à %2$s</string>
+    <string name="event_reminder_custom">Custom</string>
     <string name="event_reminder_value_zero">"Quand l'événement commence"</string>
     <string name="event_title">Titre</string>
     <string name="event_view">"Afficher l'événement"</string>
@@ -554,6 +557,10 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="notes_week_name_two">%1$s et %2$s</string>
     <string name="notes_weekly">Hebdomadaire</string>
     <string name="notification_channel_name">Rappels réguliers</string>
+    <string name="notification_open_setting_button_exit">Non merci</string>
+    <string name="notification_open_setting_button_ok">Autoriser</string>
+    <string name="notification_open_setting_message">Vous ne pourrez pas recevoir de notifications concernant les événements, sauf si vous autorisez Agenda à vous envoyer des notifications.</string>
+    <string name="notification_open_setting_title">Autoriser les notifications d’agenda ?</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">"Mois d'Amanta :"</string>
     <string name="panchang_ayana">Ayana</string>
@@ -581,6 +588,8 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="passenger">Passager</string>
     <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="path_calendar_settings">Applications système/Calendrier/Paramètres</string>
+    <string name="permission_denial">Accorder des autorisations pour pouvoir utiliser cette fonctionnalité</string>
+    <string name="permission_description">Détails des autorisations</string>
     <string name="phone_num">Téléphone</string>
     <string name="picker_day">Jour sélectionné : %1$d. Balayez verticalement pour sélectionner.</string>
     <string name="picker_month">Mois sélectionné : %1$d. Balayez verticalement pour sélectionner.</string>
@@ -651,6 +660,8 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="remind_title_record">"Rappeler d'enregistrer"</string>
     <string name="reminder_overdue">Expiré</string>
     <string name="repeat_activity_label">Répétition</string>
+    <string name="repeat_alarm_close_title">Il s’agit d’un événement répété. Désactiver le rappel d’alarme ?</string>
+    <string name="repeat_alarm_open_title">Il s’agit d’un événement répété. Définir un rappel d’alarme ?</string>
     <string name="repeat_custom_activity_label">Personnalisé</string>
     <string name="repeat_custom_prompt_daily">tous les %1$s</string>
     <string name="repeat_custom_prompt_sentence">"L'événement se répète %1$s"</string>
@@ -788,6 +799,7 @@ Vous pouvez également ajouter des rappels pour ne rien manquer d'important."</s
     <string name="subtitle_mi_calendar_predict_menstruation">"Enregistrez et estimez les règles à venir à l'aide de Calendrier"</string>
     <string name="subtitle_record_and_start_predict">Enregistrez une période menstruelle pour estimer le début de la suivante</string>
     <string name="subtitle_stick_record">Enregistrez vos périodes menstruelles pour obtenir des prévisions plus précises</string>
+    <string name="suggestions_and_feedback">Commentaire</string>
     <string name="sunday">Dimanche</string>
     <string name="sunday_short">Dim</string>
     <string name="sunday_shortest">Dim</string>
