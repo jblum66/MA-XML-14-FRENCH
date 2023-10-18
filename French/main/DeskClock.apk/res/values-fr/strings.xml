@@ -36,6 +36,7 @@
     <string name="alarm_notify_snooze_label">%s répétition</string>
     <string name="alarm_permanent_alert">En train de sonner</string>
     <string name="alarm_repeat">Répéter</string>
+    <string name="alarm_repeat_self_define_button">Personnaliser</string>
     <string name="alarm_ringtone_picker">Alarmes</string>
     <string name="alarm_set_new">"L'alarme se déclenchera dans moins de %d minute."</string>
     <string name="alert">Sonnerie</string>
@@ -46,6 +47,7 @@
     <string name="alert_xiaoai_ringtone_desc">Mi IA parle…</string>
     <string name="am">AM</string>
     <string name="app_label">Horloge</string>
+    <string name="auto_silence_entries1">Jamais</string>
     <string name="auto_silence_summary">"Définir l'heure après laquelle les alarmes et les minuteries seront désactivées"</string>
     <string name="auto_silence_title">Silence automatique</string>
     <string name="back">Quitter</string>
@@ -160,6 +162,7 @@
     <string name="life_post_wake_up_time_title">Heure de réveil</string>
     <string name="life_post_weather_invalid">Appuyez pour obtenir les infos météo</string>
     <string name="life_post_weather_no_network">Connectez-vous au réseau pour mettre à jour les infos météo</string>
+    <string name="life_post_setting_open_summary_new">Inclure les informations météo dans la première alarme désactivée entre %1$s et %2$s</string>
     <string name="listen_news_privacy"><Data>"Afin de fournir des services personnalisés et d'inclure les nouvelles du matin dans vos alarmes, L'Horloge doit se connecter à internet. Avant d'utiliser L'Horloge, vous devez également lire et accepter notre &lt;a href=\"%1$s\">Accord d'utilisation&lt;/a> et notre &lt;a href=\"%2$s\">Politique de confidentialité&lt;/a>. Accepter ?"</Data></string>
     <string name="midnight">Nuit</string>
     <string name="miui_clock_city_name_local">Local</string>
@@ -286,6 +289,10 @@
     <string name="notification_adv_time_entries4">"<xliff id="HOUR" refersto="1">%d</xliff> heure d'advance"</string>
     <string name="notification_adv_time_entries5">Aucun</string>
     <string name="notification_permission_desc">"Si vous n'accordez pas d'autorisations de notification, vous ne pourrez pas désactiver les alarmes lorsqu'elles sonnent. Accorder l'autorisation maintenant ?"</string>
+    <string name="notification_permission_dialog_content">Autoriser cette application à envoyer des notifications afin de recevoir des notifications d'alarme. Vous pouvez accorder cette autorisation dans Paramètres.</string>
+    <string name="notification_permission_dialog_not_open">Pas maintenant</string>
+    <string name="notification_permission_dialog_open">Paramètres</string>
+    <string name="notification_permission_dialog_title">Autorisations requises</string>
     <string name="oneshot_alarm">"Supprimer quand l'alarme s'arrête"</string>
     <string name="open_keep_screen">"L'écran pourra rester allumé"</string>
     <string name="open_notification_permission_remind">Autoriser les notifications pour pouvoir désactiver les alarmes</string>
@@ -438,6 +445,7 @@
     <string name="thursday">Jeudi</string>
     <string name="thursday_short">Jeu</string>
     <string name="thursday_shortest">Jeu</string>
+    <string name="time_picker_dialog_title">"Régler l'heure"</string>
     <string name="time_settings">"Paramètres de l'horloge"</string>
     <string name="timer_alert_mute_off">"L'alarme sonnera lorsque la minuterie s'arrête"</string>
     <string name="timer_alert_mute_on">"L'alarme ne sonnera pas lorsque la minuterie s'arrêtera"</string>
@@ -476,6 +484,7 @@
     <string name="tv_world_clock_edit_title2">Autres emplacements enregistrés</string>
     <string name="upcoming_alarm">Prochaine alarme : %s</string>
     <string name="upcoming_alarm_hint">Vous pouvez désactiver cette alarme maintenant</string>
+    <string name="upcoming_alarm_new">Prochaine alarme : %s</string>
     <string name="update_health_app_desc_new">La fonction de suivi du sommeil est fournie par Mi Fitness. Mettez à jour Mi Fitness vers sa dernière version pour accéder aux fonctionnalités associées.</string>
     <string name="update_health_app_new">Mettre à jour Mi Fitness</string>
     <string name="update_it">Mise à jour</string>
@@ -505,6 +514,7 @@
     <string name="worldclock_title">Horloges</string>
     <string name="worldclock_world_time">Fuseaux horaires</string>
     <string name="worldcolock_date_display_prefix">"Actuel : "</string>
+    <string name="worldcolock_time_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_local">"Identique à l'heure locale"</string>
     <string name="xiaoai_ringtone_title">Sonneries Mi IA</string>

@@ -91,6 +91,7 @@
     <string name="actionbar_button_up_description">Retour</string>
     <string name="activate_email_notice">Veillez à activer votre compte dans les 24 heures</string>
     <string name="activity_not_found_notice">Application introuvable</string>
+    <string name="ad_flag_text">PUB</string>
     <string name="ad_loading_tips_text">Chargement de la publicité…</string>
     <string name="ad_mark">Publicité</string>
     <string name="ad_permission_name">Bloquer les publicités</string>
@@ -156,7 +157,7 @@
     <string name="app_library_category_others">Autre</string>
     <string name="app_library_category_productivity">Productivité</string>
     <string name="app_library_category_reading_and_information">Actualités</string>
-    <string name="app_library_category_shopping_and_food">Shopping</string>
+    <string name="app_library_category_shopping_and_food">Achats</string>
     <string name="app_library_category_social">Social</string>
     <string name="app_library_category_travel">Voyages</string>
     <string name="app_library_category_utility">Outils</string>
@@ -272,6 +273,20 @@ Désactivez pour arrêter la synchronisation."</string>
     <string name="browserFrameFileErrorLabel">Erreur fichier</string>
     <string name="browserFrameFormResubmitMessage">La page que vous souhaitez voir contient des données qui ont déjà été soumises. Si vous les envoyer à nouveau, les actions précédentes (par ex. les recherches ou les achats) seront répétées.</string>
     <string name="browserFrameNetworkErrorLabel">Erreur de connexion</string>
+    <string name="browser_wallpaper">Fonds d’écran</string>
+    <string name="browser_wallpaper_activity">Promotions</string>
+    <string name="browser_wallpaper_application">Appliquer</string>
+    <string name="browser_wallpaper_art">Art</string>
+    <string name="browser_wallpaper_currently_in_use">Appliqué</string>
+    <string name="browser_wallpaper_gallery">Mes photos</string>
+    <string name="browser_wallpaper_landscape">Paysage</string>
+    <string name="browser_wallpaper_more_btn">Voir plus</string>
+    <string name="browser_wallpaper_my">Mes fonds d’écran</string>
+    <string name="browser_wallpaper_preview">Aperçu</string>
+    <string name="browser_wallpaper_sub">Obtenez des recommandations de fonds d’écran spéciaux et sur le thème des vacances</string>
+    <string name="browser_wallpaper_subtitle">Personnalisez Mi Browser avec de superbes fonds d’écran.</string>
+    <string name="browser_wallpaper_system_default">Par défaut</string>
+    <string name="browser_wallpaper_title">Fonds d’écran</string>
     <string name="btn_agree">Accepter</string>
     <string name="btn_cancel">Annuler</string>
     <string name="camera_permission_name">Utiliser la caméra</string>
@@ -530,7 +545,7 @@ ID : %s
 Envoyez ce code au superviseur."</string>
     <string name="dialog_ad_callback_cancel">Annuler</string>
     <string name="dialog_ad_callback_fraud_info">Fraude ou arnaque</string>
-    <string name="dialog_ad_callback_inowned_picture">Images inappropriées</string>
+    <string name="dialog_ad_callback_inappropriate_picture">Images inappropriées</string>
     <string name="dialog_ad_callback_others">Autre</string>
     <string name="dialog_ad_callback_title">Signaler un problème</string>
     <string name="dialog_channel_cancel">Annuler</string>
@@ -1473,6 +1488,9 @@ Quitter cette page maintenant ?"</string>
     <string name="my_channel">Mes chaînes</string>
     <string name="my_prize_entry">Mes récompenses</string>
     <string name="name_empty">Vous devez saisir un nom.</string>
+    <string name="native_body">Corps</string>
+    <string name="native_headline">Titre</string>
+    <string name="native_media_view">Vue média</string>
     <string name="nav_bottom_bar_back">Retour</string>
     <string name="nav_bottom_bar_close_all">Tout fermer</string>
     <string name="nav_bottom_bar_new_tab">Nouvel onglet</string>
@@ -1560,7 +1578,7 @@ Quitter cette page maintenant ?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">Général</string>
     <string name="notification_category_media">Média</string>
-    <string name="notification_category_stickcard">Quick tools</string>
+    <string name="notification_category_stickcard">Outils rapides</string>
     <string name="notification_download_completed">Téléchargé avec succès</string>
     <string name="notification_download_failed">Impossible de télécharger.</string>
     <string name="notification_wechat_expired_empty">WeChat a déjà supprimé ces clips vidéos.</string>
@@ -2246,6 +2264,7 @@ Certains sites n'utiliseront pas votre historique de navigation précédent pour
     <string name="skip_current_version">Ignorer cette version</string>
     <string name="sku_price_everymonth">%1$s chaque mois</string>
     <string name="slide_card">Balayer pour en savoir plus</string>
+    <string name="slide_next_video_text">"Prochaine vidéo : "</string>
     <string name="smart_subtitle">"Obtenez un résumé généré par l'IA du contenu de l'article pour voir les principaux points en un coup d'œil."</string>
     <string name="smart_summary">Résumé intelligent</string>
     <string name="sms_send_success">Envoyé avec succès</string>
